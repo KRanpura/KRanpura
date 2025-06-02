@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Khushi👋
 
-I'm Khushi! I'm a May 2025 graduate of Rutgers University, where I obtained my B.S in Computer Science (and a double major in English). As of now, I'm expanding my skillset post-college through personal projects and certifications, and looking for roles in Software Development and Cloud Engineering.   
+I'm a May 2025 graduate of Rutgers University, where I obtained my B.S in Computer Science (and a double major in English). As of now, I'm expanding my skillset post-college through personal projects and certifications, and looking for roles in Software Development and Cloud Engineering.   
 
 More about me: 
 
