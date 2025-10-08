@@ -6,7 +6,6 @@ More about me:
 
 - 🔭 As a Software Developer at Rutgers, I’m currently building web apps for Douglass Faculty Fellow Program research projects
 - 🌱 I’m learning cloud technologies- I'm AWS CCP and AWS SAA certified and am working towards the AZ-900. 
-- 💬 Ask me about Severance (TV show), Severance (unrelated novel by Ling Ma), and how many national parks I've been to!
 - 📫 To reach me, email me at ranpurakhushi@gmail.com or reach out on LinkedIn at https://www.linkedin.com/in/kcranpura/
 - ⚡ Fun fact: I'm writing a book!
 
